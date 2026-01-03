@@ -1,0 +1,8 @@
+{
+  "name": "Aria: AI Fashion Stylist",
+  "description": "A high-end personal fashion assistant with a 3D designer avatar, providing real-time styling advice based on your wardrobe, location, and occasion.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
